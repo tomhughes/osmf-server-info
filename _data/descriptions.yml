@@ -21,6 +21,7 @@ matomo: Matomo server for web site statistics
 munin: Munin server
 nominatim: Nominatim geocoding server
 osqa: OSQA server for help.openstreetmap.org
+otrs: OTRS/Znuny server
 overpass-query: Overpass server
 oxidized: Network configuration backup server
 planet: Web server for planet.openstreetmap.org
